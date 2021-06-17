@@ -12,6 +12,9 @@
 *  Fix forecast feature ([`02cdec8`](https://github.com/nadia77-a/geolocationApp/commit/02cdec8ae680589fffc8b30a486312f36c6b4543))
 *  Fix a feature ([`243a84d`](https://github.com/nadia77-a/geolocationApp/commit/243a84d954e9b6ee0a4cbcb7bc963f3b16a6f69e))
 
+### Breaking changes
+
+*  Break a feature ([`fb2954d`](https://github.com/nadia77-a/geolocationApp/commit/fb2954dc5f09eb1736272011cc0b614f3be5e507))
 
 # v0.0.4
 [2021-06-17]
