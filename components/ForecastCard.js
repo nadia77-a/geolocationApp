@@ -69,4 +69,3 @@ export default ForecastCard;
 
 
 //another forecast project
-//another forecast project in test
