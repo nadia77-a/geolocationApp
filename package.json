@@ -9,6 +9,7 @@
     "test": "jest",
     "lint": "eslint .",
     "version": "auto-changelog -p && git add CHANGELOG.md",
+    "changelog": "auto-changelog --template changelog-template.hbs -p -u --commit-limit false",
     "release": "standard-version"
   },
   "dependencies": {
