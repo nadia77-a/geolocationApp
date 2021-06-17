@@ -5,6 +5,7 @@ import {Text, Card, Divider} from 'react-native-elements';
 
 class ForecastCard extends Component {
   render() {
+    //test changelog
     let time;
     // Create a new date from the passed date time
     var date = new Date(this.props.detail.dt * 1000);
