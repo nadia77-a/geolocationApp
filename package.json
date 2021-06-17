@@ -1,6 +1,6 @@
 {
   "name": "geolocationWeatherReactNative",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
@@ -9,7 +9,7 @@
     "test": "jest",
     "lint": "eslint .",
     "version": "auto-changelog -p && git add CHANGELOG.md",
-    "release":"standard-version"
+    "release": "standard-version"
   },
   "dependencies": {
     "@react-native-community/geolocation": "^2.0.2",
