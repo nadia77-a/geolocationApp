@@ -14,8 +14,8 @@ class ForecastCard extends Component {
     // Minutes part from the timestamp
     var minutes = '0' + date.getMinutes();
     time = hours + ':' + minutes.substr(-2);
-    //test changelog
-    //testtttttt//
+
+
     return (
       <Card containerStyle={styles.card}>
         <Text style={styles.notes}>{this.props.location}</Text>
