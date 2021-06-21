@@ -17,6 +17,7 @@ class ForecastCard extends Component {
     //test changelog
     //testtttttt//
     //test222
+   // feat: add standard release support
     return (
       <Card containerStyle={styles.card}>
         <Text style={styles.notes}>{this.props.location}</Text>
