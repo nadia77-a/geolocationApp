@@ -1,4 +1,4 @@
-# v1.0.0
+# v1.0.1
 [2021-06-17]
 
 ### Features
@@ -8,6 +8,7 @@
 *  Add new feature ([`f6d6598`](https://github.com/nadia77-a/geolocationApp/commit/f6d6598ea5d7432fb17c9d04c100b762448de41e))
 *  Add new feature ([`856b45d`](https://github.com/nadia77-a/geolocationApp/commit/856b45dc122c419a6c2c7109c1ad0fb1573c993f))
 *  Add new feature ([`6fb9f08`](https://github.com/nadia77-a/geolocationApp/commit/6fb9f084b2eee65cd69fa9c4d405d38752058eb5))
+*  Add new feature ([`9af9f60`](https://github.com/nadia77-a/geolocationApp/commit/9af9f60a338694da48b95f281c84e5f909e6f3d1))
 
 ### Fixes
 
