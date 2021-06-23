@@ -1,3 +1,4 @@
+<!-- auto-changelog-above -->
 # v0.1.7
 [2021-06-23]
 [23 June 2021]
@@ -9,13 +10,11 @@
 
 
 
-<!-- auto-changelog-above -->
+
 # v0.1.3
 [2021-06-22]
 [22 June 2021]
-<br />
-here are started all changes
-<br />
+ here start un test
 ### Features
 
 *  Feature version5 ([`e78e72a`](https://github.com/nadia77-a/geolocationApp/commit/e78e72ae2f75d07cc0c0028215bd58e9ac5d0adc))
