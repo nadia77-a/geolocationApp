@@ -8,7 +8,7 @@
     "test": "jest",
     "lint": "eslint .",
     "version": "auto-changelog -p && git add CHANGELOG.md",
-    "changelog": "auto-changelog --template changelog-template.hbs -p -u --commit-limit false",
+    "changelog": "auto-changelog --template changelog-template.hbs",
     "release": "standard-version"
   },
   "dependencies": {
@@ -41,6 +41,12 @@
       "[Ff]eature:": "",
       "[Ff]ix:": "",
       "[Bb]reak:": ""
-    }
+    },
+    "commitLimit":false,
+    "unreleased":true,
+    "package":true,
+    "template": "changelog-template.hbs",
+    "hideEmptyReleases":true
+   
   }
 }
