@@ -1,5 +1,6 @@
 # v0.1.7
-[2021-06-23 23 June 2021]
+[2021-06-23]
+[23 June 2021]
 
 Every release has a v0.1.7 and a https://github.com/nadia77-a/geolocationApp/compare/v0.1.7...v0.1.7 you can use to link to the commit diff.
 It also has an 2021-06-23 and a 23 June 2021 you might want to use.
