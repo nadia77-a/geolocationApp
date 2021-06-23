@@ -2,8 +2,6 @@
 [2021-06-23]
 [23 June 2021]
 
-Every release has a v0.1.7 and a https://github.com/nadia77-a/geolocationApp/compare/v0.1.7...v0.1.7 you can use to link to the commit diff.
-It also has an 2021-06-23 and a 23 June 2021 you might want to use.
 ### Features
 
 *  test ([`fef7a06`](https://github.com/nadia77-a/geolocationApp/commit/fef7a06dea9fb8a49e10613eea201336d2c2c750))
@@ -13,12 +11,9 @@ It also has an 2021-06-23 and a 23 June 2021 you might want to use.
 
 <!-- auto-changelog-above -->
 # v0.1.3
-[2021-06-22 22 June 2021]
-
-Here start test
-
-Every release has a v0.1.3 and a https://github.com/nadia77-a/geolocationApp/compare/v0.1.2...v0.1.3 you can use to link to the commit diff.
-It also has an 2021-06-22 and a 22 June 2021 you might want to use.
+[2021-06-22]
+[22 June 2021]
+here are started all changes
 ### Features
 
 *  Feature version5 ([`e78e72a`](https://github.com/nadia77-a/geolocationApp/commit/e78e72ae2f75d07cc0c0028215bd58e9ac5d0adc))
@@ -26,10 +21,9 @@ It also has an 2021-06-22 and a 22 June 2021 you might want to use.
 
 
 # v0.1.2
-[2021-06-21 21 June 2021]
+[2021-06-21]
+[21 June 2021]
 
-Every release has a v0.1.2 and a https://github.com/nadia77-a/geolocationApp/compare/v0.1.1...v0.1.2 you can use to link to the commit diff.
-It also has an 2021-06-21 and a 21 June 2021 you might want to use.
 ### Features
 
 *  Add new feature ([`bc376c5`](https://github.com/nadia77-a/geolocationApp/commit/bc376c5a10524aacdd4b9446e869f79407a51099))
@@ -41,18 +35,16 @@ It also has an 2021-06-21 and a 21 June 2021 you might want to use.
 
 
 # v0.1.1
-[2021-06-21 21 June 2021]
+[2021-06-21]
+[21 June 2021]
 
-Every release has a v0.1.1 and a https://github.com/nadia77-a/geolocationApp/compare/v0.1.0...v0.1.1 you can use to link to the commit diff.
-It also has an 2021-06-21 and a 21 June 2021 you might want to use.
 
 
 
 # v0.1.0
-[2021-06-21 21 June 2021]
+[2021-06-21]
+[21 June 2021]
 
-Every release has a v0.1.0 and a https://github.com/nadia77-a/geolocationApp/compare/v0.0.7...v0.1.0 you can use to link to the commit diff.
-It also has an 2021-06-21 and a 21 June 2021 you might want to use.
 
 ### Fixes
 
@@ -60,10 +52,9 @@ It also has an 2021-06-21 and a 21 June 2021 you might want to use.
 
 
 # v0.0.7
-[2021-06-21 21 June 2021]
+[2021-06-21]
+[21 June 2021]
 
-Every release has a v0.0.7 and a https://github.com/nadia77-a/geolocationApp/compare/v0.0.6...v0.0.7 you can use to link to the commit diff.
-It also has an 2021-06-21 and a 21 June 2021 you might want to use.
 
 ### Fixes
 
@@ -71,10 +62,9 @@ It also has an 2021-06-21 and a 21 June 2021 you might want to use.
 
 
 # v0.0.6
-[2021-06-21 21 June 2021]
+[2021-06-21]
+[21 June 2021]
 
-Every release has a v0.0.6 and a https://github.com/nadia77-a/geolocationApp/compare/v0.0.4...v0.0.6 you can use to link to the commit diff.
-It also has an 2021-06-21 and a 21 June 2021 you might want to use.
 ### Features
 
 *  Add new feature ([`8bb8cb6`](https://github.com/nadia77-a/geolocationApp/commit/8bb8cb6a1224068b5dda5e675112d4d9f348f292))
@@ -94,10 +84,9 @@ It also has an 2021-06-21 and a 21 June 2021 you might want to use.
 *  Break a feature ([`fb2954d`](https://github.com/nadia77-a/geolocationApp/commit/fb2954dc5f09eb1736272011cc0b614f3be5e507))
 
 # v0.0.4
-[2021-06-17 17 June 2021]
+[2021-06-17]
+[17 June 2021]
 
-Every release has a v0.0.4 and a  you can use to link to the commit diff.
-It also has an 2021-06-17 and a 17 June 2021 you might want to use.
 
 
 
