@@ -1,6 +1,20 @@
 <!-- auto-changelog-above -->
 
 
+# v0.1.10
+[2021-06-24]
+[24 June 2021]
+
+
+### Fixes
+
+*  Fix a feature ([`2964a1f`](https://github.com/nadia77-a/geolocationApp/commit/2964a1f0258d48dee5c916d06d3704057b407165))
+
+
+
+
+
+
 # v0.1.9
 [2021-06-24]
 [24 June 2021]
