@@ -10,7 +10,7 @@
   commits
   heading='### Features'
   message='(feature: )|(Feature: )'
-  exclude='(fix: )|(Fix: )|(break: )|(Break: )'}}
+  exclude='(fix: )|(Fix: )|(break: )|(Break: )|(deprecated: )|(Deprecated: )'}}
 * {{subject}} ([`{{shorthash}}`]({{href}}))
 {{/commit-list}}
 
@@ -19,7 +19,7 @@
   commits
   heading='### Fixes'
   message='(fix: )|(Fix: )'
-  exclude='(break: )|(Break: )|(Feature: )|(feature: )'}}
+  exclude='(break: )|(Break: )|(Feature: )|(feature: )|(deprecated: )|(Deprecated: )'}}
 * {{subject}} ([`{{shorthash}}`]({{href}}))
 {{/commit-list}}
 
@@ -28,7 +28,16 @@
   commits
   heading='### Breaking changes'
   message='(break: )|(Break: )'
-  exclude='(fix: )|(Fix: )|(Feature: )|(feature: )'}}
+  exclude='(fix: )|(Fix: )|(Feature: )|(feature: )|(deprecated: )|(Deprecated: )'}}
+* {{subject}} ([`{{shorthash}}`]({{href}}))
+{{/commit-list}}
+
+{{! use depr: or Depr: }}
+{{#commit-list
+  commits
+  heading='### Deprecated'
+  message='(deprecated: )|(Deprecated: )'
+  exclude='(break: )|(Break: )|(Feature: )|(feature: )|(fix: )|(Fix: )'}}
 * {{subject}} ([`{{shorthash}}`]({{href}}))
 {{/commit-list}}
 
