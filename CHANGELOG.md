@@ -1,6 +1,18 @@
-
-
 <!-- auto-changelog-above -->
+
+
+# v0.1.9
+[2021-06-24]
+[24 June 2021]
+
+### Features
+
+*  Add new comment ([`826b98d`](https://github.com/nadia77-a/geolocationApp/commit/826b98d22d26c212edd68e7baaeb6f5e1b14d807))
+
+
+
+
+
 # v0.1.8
 [2021-06-24]
 [24 June 2021]
