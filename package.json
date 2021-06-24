@@ -8,8 +8,7 @@
     "test": "jest",
     "lint": "eslint .",
     "version": "auto-changelog -p && git add CHANGELOG.md",
-    "changelog": "auto-changelog --template changelog-template.hbs",
-    "release": "standard-version"
+    "saveLastVersion":"node changelog_support.js"
   },
   "dependencies": {
     "@react-native-community/geolocation": "^2.0.2",
