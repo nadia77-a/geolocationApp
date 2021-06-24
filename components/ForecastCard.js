@@ -13,8 +13,6 @@ class ForecastCard extends Component {
     // Minutes part from the timestamp
     var minutes = '0' + date.getMinutes();
     time = hours + ':' + minutes.substr(-2);
-    
-   //start first complete test
 
     return (
       <Card containerStyle={styles.card}>
