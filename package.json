@@ -7,7 +7,6 @@
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint .",
-    "version": "auto-changelog -p && git add CHANGELOG.md",
     "saveLastVersion": "node changelog_support.js"
   },
   "dependencies": {
