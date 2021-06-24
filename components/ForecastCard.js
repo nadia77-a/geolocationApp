@@ -5,7 +5,6 @@ import {Text, Card, Divider} from 'react-native-elements';
 
 class ForecastCard extends Component {
   render() {
-    //test changelog
     let time;
     // Create a new date from the passed date time
     var date = new Date(this.props.detail.dt * 1000);
@@ -14,7 +13,8 @@ class ForecastCard extends Component {
     // Minutes part from the timestamp
     var minutes = '0' + date.getMinutes();
     time = hours + ':' + minutes.substr(-2);
-
+    
+   //start first complete test
 
     return (
       <Card containerStyle={styles.card}>
