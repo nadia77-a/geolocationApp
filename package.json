@@ -1,6 +1,6 @@
 {
   "name": "geolocationWeatherReactNative",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -8,7 +8,7 @@
     "test": "jest",
     "lint": "eslint .",
     "version": "auto-changelog -p && git add CHANGELOG.md",
-    "saveLastVersion":"node changelog_support.js"
+    "saveLastVersion": "node changelog_support.js"
   },
   "dependencies": {
     "@react-native-community/geolocation": "^2.0.2",
@@ -41,10 +41,10 @@
       "[Ff]ix:": "",
       "[Bb]reak:": ""
     },
-    "commitLimit":false,
-    "unreleased":true,
-    "package":true,
+    "commitLimit": false,
+    "unreleased": true,
+    "package": true,
     "template": "changelog-template.hbs",
-    "hideEmptyReleases":true
+    "hideEmptyReleases": true
   }
 }
