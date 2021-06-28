@@ -1,6 +1,21 @@
 <!-- auto-changelog-above -->
 
 
+# v0.1.11
+[2021-06-24]
+[24 June 2021]
+
+
+
+
+### Deprecated
+
+*  test deprecated ([`a636470`](https://github.com/nadia77-a/geolocationApp/commit/a6364707d1f34cf3e55e0d3ebd053d7637418e5a))
+
+
+
+
+
 # v0.1.10
 [2021-06-24]
 [24 June 2021]

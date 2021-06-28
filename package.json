@@ -7,10 +7,14 @@
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint .",
-    "saveLastVersion": "node changelog_support.js"
+    "saveLastVersion": "node changelog_support.js",
+    "cz-init": "commitizen init cz-conventional-changelog --dev --exact",
+    "commit": "cz",
+    "release": "standard-version"
   },
   "dependencies": {
     "@react-native-community/geolocation": "^2.0.2",
+    "commitizen": "^4.2.4",
     "moment": "^2.29.0",
     "react": "16.13.1",
     "react-native": "0.63.3",
@@ -24,6 +28,7 @@
     "@react-native-community/eslint-config": "1.1.0",
     "auto-changelog": "^2.3.0",
     "babel-jest": "25.5.1",
+    "cz-conventional-changelog": "^3.3.0",
     "eslint": "^6.8.0",
     "eslint-plugin-react": "^7.24.0",
     "jest": "25.5.4",
@@ -38,12 +43,18 @@
     "replaceText": {
       "[Ff]eature:": "",
       "[Ff]ix:": "",
-      "[Bb]reak:": ""
+      "[Bb]reak:": "",
+      "[Dd]eprecated:": ""
     },
     "commitLimit": false,
     "unreleased": true,
     "package": true,
     "template": "changelog-template.hbs",
     "hideEmptyReleases": true
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
