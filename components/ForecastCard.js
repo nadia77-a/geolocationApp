@@ -6,6 +6,8 @@ import {Text, Card, Divider} from 'react-native-elements';
 //create test for deprecated
 
 //first test
+
+//first test
 class ForecastCard extends Component {
   render() {
     let time;
