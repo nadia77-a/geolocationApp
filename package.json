@@ -54,7 +54,20 @@
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
+      "path": "./node_modules/cz-conventional-changelog",
+      "types": {
+        "feat": {
+          "description": "A new feature",
+          "title": "Features"
+        },
+        "fix": {
+          "description": "Bug Fixes",
+          "title": "Fixes"
+        }
+    }
+
+      
     }
   }
+
 }
