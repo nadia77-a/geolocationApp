@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "saveLastVersion": "node changelog_support.js",
     "cz-init": "commitizen init cz-conventional-changelog --dev --exact",
+
     "commit": "cz",
     "release": "standard-version"
   },
@@ -29,6 +30,7 @@
     "auto-changelog": "^2.3.0",
     "babel-jest": "25.5.1",
     "cz-conventional-changelog": "^3.3.0",
+    "cz-customizable": "^6.3.0",
     "eslint": "^6.8.0",
     "eslint-plugin-react": "^7.24.0",
     "jest": "25.5.4",
@@ -54,20 +56,8 @@
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog",
-      "types": {
-        "feat": {
-          "description": "A new feature",
-          "title": "Features"
-        },
-        "fix": {
-          "description": "Bug Fixes",
-          "title": "Fixes"
-        }
-    }
-
-      
+      "path": "node_modules/cz-customizable",
+      "cz-customizable": "cz-config.js"
     }
   }
-
 }
