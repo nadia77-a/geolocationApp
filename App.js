@@ -23,6 +23,7 @@ export default class App extends React.Component {
   getLocation() {
     // Get the current position of the user
 
+    //test another change for version 16
     GetLocation.getCurrentPosition({
       enableHighAccuracy: true,
       timeout: 15000,
