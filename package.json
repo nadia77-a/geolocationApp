@@ -15,6 +15,7 @@
   "dependencies": {
     "@react-native-community/geolocation": "^2.0.2",
     "commitizen": "^4.2.4",
+    "generate-changelog": "^1.8.0",
     "moment": "^2.29.0",
     "react": "16.13.1",
     "react-native": "0.63.3",
@@ -35,7 +36,7 @@
     "jest": "25.5.4",
     "metro-react-native-babel-preset": "0.59.0",
     "react-test-renderer": "16.13.1",
-    "standard-version": "^9.3.0"
+    "standard-version": "^9.3.1"
   },
   "jest": {
     "preset": "react-native"
