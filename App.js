@@ -19,7 +19,7 @@ export default class App extends React.Component {
     // Get the user's location
     this.getLocation();
   }
-
+  //first  change
   getLocation() {
     // Get the current position of the user
 
