@@ -22,7 +22,7 @@ export default class App extends React.Component {
   //first  change
   getLocation() {
     // Get the current position of the user
-
+    //testttttttttt
     //test another change for version 16
     //another test
     GetLocation.getCurrentPosition({
