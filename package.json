@@ -9,7 +9,6 @@
     "lint": "eslint .",
     "saveLastVersion": "node changelog_support.js",
     "cz-init": "commitizen init cz-conventional-changelog --dev --exact",
-
     "commit": "cz",
     "release": "standard-version"
   },
