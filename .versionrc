@@ -1,11 +1,7 @@
 {
   "bumpFiles": [
     {
-      "filename": "MY_VERSION_TRACKER.txt",
-      "type": "plain-text"
-    },
-    {
-      "filename": "a/deep/package/dot/json/file/package.json",
+      "filename": "package.json",
       "type": "json"
     },
     {
