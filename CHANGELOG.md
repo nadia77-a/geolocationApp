@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.17](https://github.com/nadia77-a/geolocationApp/compare/v0.1.16...v0.1.17) (2021-08-24)
+
+
+### Features
+
+* first commit ([49067f9](https://github.com/nadia77-a/geolocationApp/commit/49067f9da808dc006cb9ad948817f148d8ac6d12))
+* first test there ([bff5c6e](https://github.com/nadia77-a/geolocationApp/commit/bff5c6ef20aa2e588957bc2c7abd6f379dd2f923))
+* second change ([539b0bc](https://github.com/nadia77-a/geolocationApp/commit/539b0bc4fc999262672641f6f382d3ecd2b69924))
+
 ### [0.1.17](https://github.com/nadia77-a/geolocationApp/compare/v0.1.16...v0.1.17) (2021-08-23)
 
 ### Features
